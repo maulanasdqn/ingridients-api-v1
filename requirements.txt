@@ -1,0 +1,5 @@
+django
+markdown
+psycopg2
+python-dotenv
+djangorestframework
