@@ -3,3 +3,4 @@ markdown
 psycopg2
 python-dotenv
 djangorestframework
+djangorestframework-simplejwt
